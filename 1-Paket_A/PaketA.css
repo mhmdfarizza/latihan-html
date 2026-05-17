@@ -1,0 +1,135 @@
+                .table{
+                    border-collapse: collapse;
+                    margin:40px auto;
+                    font-family: Arial;
+                    text-align:center;
+                    width: 850px;
+                    
+                }
+                th, td{
+                    border:1px solid black;
+                    padding:8px 14px;
+                }
+                .no{
+                    background:#6a1b9a;
+                    color:white;
+                }
+                .nama{
+                    background:#e67e22;
+                    color:black;
+                }
+                .tunjangan{
+                    background:#6aa84f;
+                    color:black;
+                }
+                .gaji{
+                    background:#4a6fa5;
+                    color:black;
+                }
+                .total-h{
+                    background:black;
+                    color:white;
+                }
+                .total-row td{
+                    background:#bfbfbf;
+                    font-weight:bold;
+                }
+                .table2{
+                    border-collapse: collapse;
+                    margin:40px auto;
+                    background:#eee;
+                }
+                body{
+                    font-family: Arial;
+                }
+                td, th{
+                    border:1px solid black;
+                    padding:10px;
+                }
+                .title{
+                    background:#6a2c91;
+                    color:rgb(0, 0, 0);
+                    font-size:22px;
+                    text-align:center;
+                }
+                .nama{ background:#ed7d31; color:rgb(0, 0, 0); }
+                .ttl{ background:#3f78b3; color:rgb(0, 0, 0); }
+                .jk{ background:#ffc000; color: rgb(0, 0, 0);}
+                .kelas{ background:#70ad47;color: rgb(0, 0, 0); }
+                .alamat{ background:black; color:white; }
+                .titik{
+                    width:20px;
+                    text-align:center;
+                    font-weight:bold;
+                }
+                input, select, textarea{
+                    width:220px;
+                    padding:5px;
+                    border:2px inset #aaa;
+                }
+                textarea{
+                    height:80px;
+                    resize:none;
+                }
+                .radio{
+                    line-height:1.8;
+                }
+                button{
+                    padding:8px 25px;
+                    font-size:18px;
+                    background:#ddd;
+                    border:2px outset #999;
+                    cursor:pointer;
+                }
+                button:active{
+                    border:2px inset #999;
+                }
+                .submit{
+                    text-align:center;
+                }
+                body {
+                    background: #ffffff;
+                    margin: 0;
+                    padding: 0;
+                    font-family: Georgia, "Times New Roman", serif;
+                    color: #333;
+                }
+                .tengah {
+                    width: 850px;
+                    margin: 40px auto;
+                    font-size: 18px;
+                    line-height: 1.75;
+                }
+                p {
+                    margin-bottom: 22px;
+                }
+                .blue {
+                    color: #2a7dbf;
+                    text-decoration: underline;
+                }
+                .hijau {
+                    color: #7ea24b;
+                    font-style: italic;
+                }
+                .red {
+                    color: #e53935;
+                }
+                .bold {
+                    font-weight: bold;
+                }
+                .italic {
+                    font-style: italic;
+                }
+                .underline {
+                    text-decoration: underline;
+                }
+                hr {
+                    border: none;
+                    border-top: 1px solid black;
+                    margin: 35px 0;
+                }
+                .P2 {
+                    font-size: 16px;
+                    color: #666;
+                    font-style: italic;
+                }
